@@ -12,9 +12,7 @@ body{
     display: flex;
     flex-direction: column;
 }
-h1,h2,h3{
-    font-size: clamp(0.5rem,5vw - 1rem,5rem);
-}
+
 p{
     text-align: justify;
     font-size: clamp(1rem, 2vw - 1rem,1.5rem);
